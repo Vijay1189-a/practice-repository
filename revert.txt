@@ -1,2 +1,0 @@
-i am working on git revert command" below line i will enter and will remove with revert command" Hi My name is Vijay same is written in line 2 and remvoed with gitrever
-My name is vijay
